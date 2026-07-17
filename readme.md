@@ -77,8 +77,7 @@
 
 ## 📫 Connect With Me  
 - 📧 [gowthumanikantasaranteja@gmail.com](mailto:gowthumanikantasaranteja@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/teja-gowthu-4b8a65337)  
-- 🖥️ [GitHub](https://github.com/gmsteja2006)  
+- 🔗 [LinkedIn](https://linkedin.com/in/teja-gowthu-4b8a65337)    
 
 ---
 

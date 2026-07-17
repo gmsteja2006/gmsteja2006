@@ -1,72 +1,69 @@
-# 👋 Hi, I'm Manikanta Saran Teja Gowthu  
+# 👋 Hey, I'm Teja Gowthu  
 
-🎓 Third-year B.Tech student in **Artificial Intelligence & Machine Learning** at Aditya University  
-💻 Aspiring AIML/software developer | Passionate about building real-world web applications and scalable systems  
-📍 Based in Andhra Pradesh, India  
-
----
-
-## 🚀 About Me
-- Hands-on experience in **FastAPI, MongoDB, Java, SQL, and LangGraph**  
-- Built and published **3+ full-stack projects** with 500+ combined views/downloads on GitHub  
-- Strong foundation in **Object-Oriented Programming, Data Structures, and Problem Solving**  
-- Actively solving problems on **LeetCode, CodeChef, HackerRank, and GeeksforGeeks**  
+🎓 B.Tech in Artificial Intelligence & Machine Learning (Aditya University, 2024–2028)  
+💻 Independent developer building scalable web apps and intelligent systems  
+🌱 Currently seeking internship opportunities to apply my skills in real-world projects  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, Java, C, HTML, CSS, SQL  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Power BI, Excel  
-**Concepts:** OOP, Data Structures, Cloud Infrastructure, Machine Learning  
+## 🚀 What I Do
+- Build **full-stack applications** with FastAPI, MongoDB, and modern web technologies  
+- Design **scalable backends** with optimized query performance  
+- Explore **AI/ML workflows** including RAG systems and semantic search  
+- Solve **competitive programming challenges** (400+ problems across CodeChef & LeetCode)  
 
 ---
 
-## 📂 Featured Projects
-### 🔹 [DocuTrust](#)
+## 🛠️ Tech Toolbox
+- **Languages:** Python, Java, C, HTML, CSS, SQL  
+- **Databases:** MySQL, MongoDB  
+- **Frameworks & Tools:** FastAPI, LangGraph, Git/GitHub, Power BI, Jupyter Notebook  
+- **Core Concepts:** OOP, Data Structures, Cloud Infrastructure, Machine Learning  
+
+---
+
+## 📂 Highlighted Projects
+### 🔹 DocuTrust
 *FastAPI, LangGraph, MongoDB, CrossEncoder*  
-- Enterprise-grade **self-correcting RAG platform** for document analysis  
-- Semantic search with **sub-second query response** across 100+ PDFs  
-- Real-time SSE dashboard → boosted user engagement by **40%**  
+- Enterprise-grade **RAG platform** for document analysis  
+- Sub-second semantic search across 100+ PDFs  
+- Real-time SSE dashboard → boosted engagement by **40%**
 
-### 🔹 [Daily Tasks Overview Website](#)
+### 🔹 Daily Tasks Overview Website
 *HTML, CSS, JavaScript, MongoDB*  
-- Responsive web app to organize daily tasks  
+- Responsive web app to organize and showcase tasks  
 - Interactive UI with modern CSS layouts  
-- Backend powered by MongoDB, supporting **200+ task records**  
+- Backend powered by MongoDB, supporting **200+ records**
 
-### 🔹 [Online Shopping Cart](#)
+### 🔹 Online Shopping Cart
 *Java, JDBC, SQL*  
 - Console-based app for product browsing, cart management, and checkout  
 - JDBC-based database connectivity for efficient product/customer data handling  
 
 ---
 
-## 🏆 Achievements & Certifications
-- **Competitive Programming:** Solved **400+ problems** across CodeChef & LeetCode  
-- **Certifications:**  
-  - C (Cisco Networking Academy)  
-  - C++ (Basic) – HackerRank  
-  - SQL (Basic) – HackerRank  
-  - Excel – Microsoft  
-  - Power Platform Fundamentals (Power BI) – Microsoft  
-- **Cambridge English Empower B2:** Certified professional-level communication  
+## 🏆 Certifications & Achievements
+- **Cisco Networking Academy:** C Programming  
+- **HackerRank:** C++ (Basic), SQL (Basic)  
+- **Microsoft:** Excel, Power Platform Fundamentals (Power BI)  
+- **Cambridge English Empower B2:** Professional-level communication  
+- **Competitive Programming:** 400+ problems solved across platforms  
 
 ---
 
 ## 📊 Coding Profiles
-- **HackerRank:** 5 Badges  
-- **LeetCode:** 200+ Problems Solved  
-- **CodeChef:** 300+ Problems Solved  
-- **GeeksforGeeks:** 25+ Problems Solved  
+- [LeetCode](https://leetcode.com/) → 200+ problems solved  
+- [CodeChef](https://www.codechef.com/) → 300+ problems solved  
+- [HackerRank](https://www.hackerrank.com/) → 5 badges  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) → 25+ problems solved  
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: [gowthumanikantasaranteja@gmail.com](mailto:gowthumanikantasaranteja@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/teja-gowthu-4b8a65337](https://linkedin.com/in/teja-gowthu-4b8a65337)  
-- 🖥️ GitHub: [github.com/gmsteja2006](https://github.com/gmsteja2006)  
+## 📫 Let’s Connect
+- 📧 [gowthumanikantasaranteja@gmail.com](mailto:gowthumanikantasaranteja@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/teja-gowthu-4b8a65337)  
+- 🖥️ [GitHub](https://github.com/gmsteja2006)  
 
 ---
 
-⭐️ *Always excited to collaborate on innovative projects and contribute to open-source!*  
+⭐️ *Passionate about turning ideas into impactful software. Open to collaborations, internships, and exciting projects!*  

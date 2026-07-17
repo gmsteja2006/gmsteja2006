@@ -1,7 +1,8 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=600&font=Fira+Code&lines=Hi+I'm+Teja;Independent+Developer+%7C+Problem+Solver;Excited+to+Collaborate+on+Innovations!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=700&font=Fira+Code&lines=Hi+I'm+Teja;Independent+Developer+%7C+Problem+Solver;Hands-on+with+FastAPI,+MongoDB,+SQL,+Java;Built+DocuTrust+%26+Real-World+Web+Apps;Excited+to+Collaborate+on+Innovations!" />
 </p>
+
 
 
 

@@ -1,7 +1,8 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=700&font=Fira+Code&lines=Hi+I'm+Teja;Independent+Developer+%7C+Problem+Solver;Worked+on+Real-World+Projects;Excited+to+Collaborate+on+Innovations!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=700&font=Fira+Code&lines=Hi+I'm+Teja;Independent+Developer+%7C+Problem+Solver;Building+Real-World+Projects;Excited+to+Collaborate+on+Innovations!" />
 </p>
+
 
 
 

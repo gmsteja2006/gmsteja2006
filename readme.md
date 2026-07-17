@@ -1,69 +1,59 @@
-# 👋 Hey, I'm Teja Gowthu  
+# Hi, I'm Manikanta Saran Teja Gowthu 👋
+Typing SVG
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (Aditya University, 2024–2028)  
-💻 Independent developer building scalable web apps and intelligent systems  
-🌱 Currently seeking internship opportunities to apply my skills in real-world projects  
-
----
-
-## 🚀 What I Do
-- Build **full-stack applications** with FastAPI, MongoDB, and modern web technologies  
-- Design **scalable backends** with optimized query performance  
-- Explore **AI/ML workflows** including RAG systems and semantic search  
-- Solve **competitive programming challenges** (400+ problems across CodeChef & LeetCode)  
+🙋‍♂️ About Me  
+🎓 B.Tech AIML @ Aditya University | CGPA: 7.50  
+💻 Independent developer building scalable web apps & intelligent systems  
+🔭 Currently working on **DocuTrust** — a self-correcting RAG platform for document analysis  
+🌱 Exploring Cloud Infrastructure, Semantic Search & FastAPI-based microservices  
+💡 Passionate about clean architecture, problem solving & real-world project delivery  
+📫 Reach me: gowthumanikantasaranteja@gmail.com  
 
 ---
 
-## 🛠️ Tech Toolbox
-- **Languages:** Python, Java, C, HTML, CSS, SQL  
-- **Databases:** MySQL, MongoDB  
-- **Frameworks & Tools:** FastAPI, LangGraph, Git/GitHub, Power BI, Jupyter Notebook  
-- **Core Concepts:** OOP, Data Structures, Cloud Infrastructure, Machine Learning  
+🛠️ Tech Stack  
+**Languages:** Python · Java · C · HTML · CSS · SQL  
+**Backend & Frameworks:** FastAPI · LangGraph · JDBC · CrossEncoder  
+**Frontend & Tools:** JavaScript · Responsive CSS · Git/GitHub · VS Code · Jupyter Notebook  
+**Databases & Cloud:** MySQL · MongoDB · Cloud Infrastructure (Minor)  
 
 ---
 
-## 📂 Highlighted Projects
-### 🔹 DocuTrust
-*FastAPI, LangGraph, MongoDB, CrossEncoder*  
-- Enterprise-grade **RAG platform** for document analysis  
-- Sub-second semantic search across 100+ PDFs  
-- Real-time SSE dashboard → boosted engagement by **40%**
+🚀 Featured Projects  
 
-### 🔹 Daily Tasks Overview Website
-*HTML, CSS, JavaScript, MongoDB*  
-- Responsive web app to organize and showcase tasks  
-- Interactive UI with modern CSS layouts  
-- Backend powered by MongoDB, supporting **200+ records**
-
-### 🔹 Online Shopping Cart
-*Java, JDBC, SQL*  
-- Console-based app for product browsing, cart management, and checkout  
-- JDBC-based database connectivity for efficient product/customer data handling  
+| Project | Description | Tech | Highlight |
+|---------|-------------|------|-----------|
+| **DocuTrust** | Enterprise-grade RAG platform for document analysis | FastAPI, LangGraph, MongoDB, CrossEncoder | ⚡ Sub-second semantic search across 100+ PDFs · +40% user engagement |
+| **Daily Tasks Overview Website** | Responsive web app to organize daily tasks | HTML, CSS, JavaScript, MongoDB | 📌 Interactive UI · 200+ records stored efficiently |
+| **Online Shopping Cart** | Console-based shopping workflow | Java, JDBC, SQL | 🛒 Checkout, cart management & optimized SQL queries |
 
 ---
 
-## 🏆 Certifications & Achievements
-- **Cisco Networking Academy:** C Programming  
-- **HackerRank:** C++ (Basic), SQL (Basic)  
-- **Microsoft:** Excel, Power Platform Fundamentals (Power BI)  
-- **Cambridge English Empower B2:** Professional-level communication  
-- **Competitive Programming:** 400+ problems solved across platforms  
+🏆 Achievements & Certifications  
+- Competitive Programming: **400+ problems solved** (CodeChef + LeetCode)  
+- Certifications:  
+  - C (Cisco Networking Academy)  
+  - C++ (Basic) — HackerRank  
+  - SQL (Basic) — HackerRank  
+  - Excel — Microsoft  
+  - Power Platform Fundamentals (Power BI) — Microsoft  
+- 🌍 Cambridge English Empower B2 — Professional communication certified  
 
 ---
 
-## 📊 Coding Profiles
-- [LeetCode](https://leetcode.com/) → 200+ problems solved  
-- [CodeChef](https://www.codechef.com/) → 300+ problems solved  
-- [HackerRank](https://www.hackerrank.com/) → 5 badges  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) → 25+ problems solved  
+📊 Coding Profiles  
+- **LeetCode:** 200+ problems solved  
+- **CodeChef:** 300+ problems solved  
+- **HackerRank:** 5 badges  
+- **GeeksforGeeks:** 25+ problems solved  
 
 ---
 
-## 📫 Let’s Connect
+📫 Connect With Me  
 - 📧 [gowthumanikantasaranteja@gmail.com](mailto:gowthumanikantasaranteja@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/teja-gowthu-4b8a65337)  
 - 🖥️ [GitHub](https://github.com/gmsteja2006)  
 
 ---
 
-⭐️ *Passionate about turning ideas into impactful software. Open to collaborations, internships, and exciting projects!*  
+⭐ *Always excited to collaborate on innovative projects, internships, and open-source contributions!*  

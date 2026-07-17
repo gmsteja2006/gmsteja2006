@@ -1,10 +1,11 @@
-# Hi, I'm Manikanta Saran Teja Gowthu 👋
-Typing SVG
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Manikanta+Saran+Teja+Gowthu;B.Tech+AIML+@+Aditya+University;Independent+Developer+%7C+Problem+Solver;Building+DocuTrust+%F0%9F%9A%80;Excited+to+Collaborate+on+Innovations!" />
 </p>
 
-🙋‍♂️ About Me  
+---
+
+# 👋 About Me  
 🎓 B.Tech AIML @ Aditya University | CGPA: 7.50  
 💻 Independent developer building scalable web apps & intelligent systems  
 🔭 Currently working on **DocuTrust** — a self-correcting RAG platform for document analysis  
@@ -14,15 +15,37 @@ Typing SVG
 
 ---
 
-🛠️ Tech Stack  
-**Languages:** Python · Java · C · HTML · CSS · SQL  
-**Backend & Frameworks:** FastAPI · LangGraph · JDBC · CrossEncoder  
-**Frontend & Tools:** JavaScript · Responsive CSS · Git/GitHub · VS Code · Jupyter Notebook  
-**Databases & Cloud:** MySQL · MongoDB · Cloud Infrastructure (Minor)  
+## 🛠️ Tech Stack  
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Frameworks**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white) 
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white) 
+![CrossEncoder](https://img.shields.io/badge/CrossEncoder-FF4088?style=for-the-badge&logo=ai&logoColor=white)
+
+**Frontend & Tools**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Responsive CSS](https://img.shields.io/badge/Responsive%20CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Cloud Infra](https://img.shields.io/badge/Cloud%20Infra-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-🚀 Featured Projects  
+## 🚀 Featured Projects  
 
 | Project | Description | Tech | Highlight |
 |---------|-------------|------|-----------|
@@ -32,7 +55,7 @@ Typing SVG
 
 ---
 
-🏆 Achievements & Certifications  
+## 🏆 Achievements & Certifications  
 - Competitive Programming: **400+ problems solved** (CodeChef + LeetCode)  
 - Certifications:  
   - C (Cisco Networking Academy)  
@@ -44,7 +67,7 @@ Typing SVG
 
 ---
 
-📊 Coding Profiles  
+## 📊 Coding Profiles  
 - **LeetCode:** 200+ problems solved  
 - **CodeChef:** 300+ problems solved  
 - **HackerRank:** 5 badges  
@@ -52,7 +75,7 @@ Typing SVG
 
 ---
 
-📫 Connect With Me  
+## 📫 Connect With Me  
 - 📧 [gowthumanikantasaranteja@gmail.com](mailto:gowthumanikantasaranteja@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/teja-gowthu-4b8a65337)  
 - 🖥️ [GitHub](https://github.com/gmsteja2006)  

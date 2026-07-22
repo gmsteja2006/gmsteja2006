@@ -17,8 +17,7 @@
 💻 Independent developer building scalable web apps & intelligent systems  
 🔭 Currently working on **DocuTrust** — a self-correcting RAG platform for document analysis  
 🌱 Exploring Cloud Infrastructure, Semantic Search & FastAPI-based microservices  
-💡 Passionate about clean architecture, problem solving & real-world project delivery  
-📫 Reach me: gowthumanikantasaranteja@gmail.com  
+💡 Passionate about clean architecture, problem solving & real-world project delivery   
 
 ---
 

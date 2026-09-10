@@ -6,8 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gowthumanikantasaranteja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/teja-gowthu-4b8a65337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:gowthumanikantasaranteja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/teja-gowthu-4b8a65337">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
@@ -54,12 +59,5 @@
 ![Cloud Infra](https://img.shields.io/badge/Cloud%20Infra-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
-## 📫 Let's Connect
-
-I'm always open to discussing internships, collaborations, and open-source contributions.
-
-- **Email:** [gowthumanikantasaranteja@gmail.com](mailto:gowthumanikantasaranteja@gmail.com)
-- **LinkedIn:** [teja-gowthu](https://linkedin.com/in/teja-gowthu-4b8a65337)
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repositories below.</i></p>

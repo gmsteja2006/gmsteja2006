@@ -1,8 +1,15 @@
-<h1 align="center">Hi, I'm Teja Gowthu 👋</h1>
-<h3 align="center">Independent Developer | AI/ML Engineer | Backend & RAG Systems</h3>
+<!-- ============ HEADER WAVE ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Teja%20Gowthu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20%26%20RAG%20Systems&descSize=20&descAlignY=58" alt="header" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&font=Consolas&lines=B.Tech+AIML+Student;Building+Scalable+Backend+Systems;Exploring+RAG+%26+Semantic+Search;Open+to+Internships+%26+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=B.Tech+AIML+Student+%F0%9F%8E%93;Building+Scalable+Backend+Systems+%E2%9A%99%EF%B8%8F;Exploring+RAG+%26+Semantic+Search+%F0%9F%94%8E;Shipping+DocuTrust%2C+a+self-correcting+RAG+platform+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white" alt="status"/>
 </p>
 
 <p align="center">
@@ -19,16 +26,47 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in AI & Machine Learning, Aditya University — CGPA 7.50
-- 💻 Independent developer focused on scalable web applications and intelligent systems
-- 🔭 Currently building **DocuTrust**, a self-correcting RAG platform for document analysis
-- 🌱 Deepening my skills in cloud infrastructure, semantic search, and FastAPI-based microservices
+```python
+class TejaGowthu:
+    role      = "Independent Developer | AI/ML Engineer"
+    education = "B.Tech AI & ML, Aditya University (CGPA 7.50)"
+    focus     = ["Scalable backends", "RAG systems", "Semantic search"]
+    building  = "DocuTrust: self-correcting RAG for document analysis"
+    learning  = ["Cloud infrastructure", "FastAPI microservices", "Semantic search"]
+    english   = "Cambridge English Empower B2"
+    open_to   = ["Internships", "Collaborations"]
+```
+
 - 💡 Driven by clean architecture, strong problem-solving, and shipping real-world projects
-- 🌍 Cambridge English Empower B2 certified for professional communication
+
+---
+
+## 🚀 Currently Building
+
+<table align="center">
+  <tr>
+    <td align="center" width="700">
+      <h3>📄 DocuTrust</h3>
+      <p>A <b>self-correcting RAG platform</b> for document analysis.</p>
+      <img src="https://img.shields.io/badge/RAG-38BDF8?style=flat-square" />
+      <img src="https://img.shields.io/badge/Semantic%20Search-6366F1?style=flat-square" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,fastapi,mysql,mongodb,github,vscode,jupyter&perline=12" alt="skills"/>
+</p>
+
+<details>
+<summary><b>📚 Full breakdown</b></summary>
+<br>
 
 **Languages**
 
@@ -58,6 +96,33 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloud Infra](https://img.shields.io/badge/Cloud%20Infra-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+</details>
+
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories below.</i></p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by. Feel free to explore my repositories below. 👇</i></p>
+
+<!-- ============ RIVER FOOTER ============ -->
+<p align="center">
+  <img src="./assets/river.svg" alt="flowing river" width="100%" height="180"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer&animation=twinkling" alt="footer" width="100%"/>
+</p>

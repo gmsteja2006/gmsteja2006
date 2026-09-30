@@ -75,8 +75,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Programming Languages"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql&theme=dark" alt="Programming Languages"/>
 </p>
 
 ### ⚙️ Backend & Frameworks
@@ -126,13 +125,13 @@ A self-correcting **RAG-based document analysis platform** focused on improving 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Teja-Gowthu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=gmsteja2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="170"
     alt="GitHub Statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-Gowthu&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmsteja2006&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
     alt="Top Languages"
   />
@@ -140,7 +139,7 @@ A self-correcting **RAG-based document analysis platform** focused on improving 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Teja-Gowthu&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=gmsteja2006&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>

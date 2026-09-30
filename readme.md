@@ -1,7 +1,5 @@
 <!-- ========================= -->
-
 <!--         HEADER            -->
-
 <!-- ========================= -->
 
 <div align="center">
@@ -10,12 +8,8 @@
 
 </div>
 
-<br>
-
 <!-- ========================= -->
-
 <!--          INTRO            -->
-
 <!-- ========================= -->
 
 <h1 align="center">
@@ -33,8 +27,6 @@
   />
 </p>
 
-<br>
-
 <p align="center">
   <a href="mailto:gowthumanikantasaranteja@gmail.com">
     <img
@@ -50,19 +42,16 @@
     />
   </a>
 
-<img
- src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge&logo=rocket&logoColor=white"
- alt="Open to internships"
-/>
-
+  <img
+   src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge&logo=rocket&logoColor=white"
+   alt="Open to internships"
+  />
 </p>
 
 ---
 
 <!-- ========================= -->
-
 <!--         ABOUT ME          -->
-
 <!-- ========================= -->
 
 ## 🧑‍💻 About Me
@@ -79,39 +68,30 @@
 ---
 
 <!-- ========================= -->
-
 <!--        TECH STACK         -->
-
 <!-- ========================= -->
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Programming Languages"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL"/>
 </p>
 
 ### ⚙️ Backend & Frameworks
-
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC"/>
 </p>
 
 ### 🗄️ Databases
-
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
 </p>
 
 ### 🔧 Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=github,git,vscode&theme=dark" alt="Development Tools"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
@@ -120,19 +100,15 @@
 ---
 
 <!-- ========================= -->
-
 <!--        CURRENT WORK       -->
-
 <!-- ========================= -->
 
 ## 🚀 What I'm Working On
 
 ### 📄 DocuTrust
-
 A self-correcting **RAG-based document analysis platform** focused on improving document understanding and semantic search.
 
 **Areas I'm exploring:**
-
 * 🔎 Retrieval-Augmented Generation
 * 🧠 Semantic Search
 * 🤖 AI Agents
@@ -143,33 +119,28 @@ A self-correcting **RAG-based document analysis platform** focused on improving 
 ---
 
 <!-- ========================= -->
-
 <!--        GITHUB STATS       -->
-
 <!-- ========================= -->
 
 ## 📊 GitHub Statistics
 
-> **Important:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Teja-Gowthu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="170"
     alt="GitHub Statistics"
   />
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
- height="170"
- alt="Top Languages"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-Gowthu&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Teja-Gowthu&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -177,15 +148,12 @@ A self-correcting **RAG-based document analysis platform** focused on improving 
 ---
 
 <!-- ========================= -->
-
 <!--          CONTACT          -->
-
 <!-- ========================= -->
 
 ## 📫 Connect With Me
 
 <p align="center">
-
 <a href="mailto:gowthumanikantasaranteja@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -193,15 +161,12 @@ A self-correcting **RAG-based document analysis platform** focused on improving 
 <a href="https://linkedin.com/in/teja-gowthu-4b8a65337">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 </p>
 
 ---
 
 <!-- ========================= -->
-
 <!--           FOOTER          -->
-
 <!-- ========================= -->
 
 <p align="center">
@@ -216,7 +181,7 @@ A self-correcting **RAG-based document analysis platform** focused on improving 
 </p>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:0288d1,100:0d1117&height=140&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0288d1,100:4fc3f7&height=140&section=footer"
 width="100%"
 alt="Footer"
 />

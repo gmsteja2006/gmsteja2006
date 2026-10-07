@@ -99,10 +99,6 @@ flowchart LR
   <img src="https://streak-stats.demolab.com?user=gmsteja2006&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/gmsteja2006" alt="contribution chart" width="95%" />
-</p>
-
 ---
 
 <p align="center"><i>💬 Thanks for stopping by — feel free to explore my repositories below, and let's build something together.</i></p>

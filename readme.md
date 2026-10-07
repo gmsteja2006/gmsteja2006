@@ -1,5 +1,3 @@
-<!-- Replace every YOUR_GITHUB_USERNAME below with your GitHub username -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=Teja%20Gowthu&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Backend%20%26%20RAG%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <p align="center">
@@ -7,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=gmsteja2006&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-2dd4bf?style=for-the-badge" alt="open to internships" />
   <img src="https://img.shields.io/badge/CGPA-7.50-38bdf8?style=for-the-badge" alt="cgpa" />
 </p>
@@ -93,21 +91,20 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gmsteja2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmsteja2006&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=gmsteja2006&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmsteja2006&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
 </p>
 
 ---
 
 <p align="center"><i>💬 Thanks for stopping by — feel free to explore my repositories below, and let's build something together.</i></p>
 
-<!-- Animated river ending (needs assets/river.svg in your profile repo) -->
-<img src="./assets/river.svg" width="100%" height="140" alt="flowing river animation" />
+<img src="./river.svg" width="100%" height="140" alt="flowing river animation" />

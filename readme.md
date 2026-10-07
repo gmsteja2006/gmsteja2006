@@ -100,7 +100,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmsteja2006&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
+  <img src="https://ghchart.rshah.org/38bdf8/gmsteja2006" alt="contribution chart" width="95%" />
 </p>
 
 ---

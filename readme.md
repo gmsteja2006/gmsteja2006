@@ -1,8 +1,15 @@
-<h1 align="center">Hi, I'm Teja Gowthu 👋</h1>
-<h3 align="center">Independent Developer | AI/ML Engineer | Backend & RAG Systems</h3>
+<!-- Replace every YOUR_GITHUB_USERNAME below with your GitHub username -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=Teja%20Gowthu&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Backend%20%26%20RAG%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&font=Consolas&lines=B.Tech+AIML+Student;Building+Scalable+Backend+Systems;Exploring+RAG+%26+Semantic+Search;Open+to+Internships+%26+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+AIML+Student+%40+Aditya+University;Building+Scalable+Backend+Systems;Exploring+RAG+%26+Semantic+Search;Open+to+Internships+%26+Collaborations" alt="typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-2dd4bf?style=for-the-badge" alt="open to internships" />
+  <img src="https://img.shields.io/badge/CGPA-7.50-38bdf8?style=for-the-badge" alt="cgpa" />
 </p>
 
 <p align="center">
@@ -17,47 +24,90 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-- 🎓 B.Tech in AI & Machine Learning, Aditya University — CGPA 7.50
-- 💻 Independent developer focused on scalable web applications and intelligent systems
-- 🔭 Currently building **DocuTrust**, a self-correcting RAG platform for document analysis
-- 🌱 Deepening my skills in cloud infrastructure, semantic search, and FastAPI-based microservices
-- 💡 Driven by clean architecture, strong problem-solving, and shipping real-world projects
-- 🌍 Cambridge English Empower B2 certified for professional communication
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🎓 **B.Tech in AI & Machine Learning**, Aditya University — CGPA 7.50
+- 💻 Independent developer building scalable web apps and intelligent systems
+- 🔭 Currently building **[DocuTrust](#-featured-project-docutrust)**, a self-correcting RAG platform for document analysis
+- 🌱 Deepening my skills in cloud infrastructure, semantic search and FastAPI microservices
+- 💡 Driven by clean architecture, strong problem-solving and shipping real projects
+- 🌍 Cambridge English Empower **B2** certified
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+```python
+class Teja:
+    role   = "AI/ML Engineer"
+    focus  = ["Backend", "RAG", "Search"]
+    stack  = ["Python", "FastAPI", "LangGraph"]
+    status = "Building DocuTrust 🚀"
+
+    def open_to(self):
+        return "Internships & Collabs"
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,fastapi,mysql,mongodb,github,vscode,jupyter&perline=6" alt="tech stack" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend & Frameworks**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
-
-**Frontend & Tools**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cloud Infra](https://img.shields.io/badge/Cloud%20Infra-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Cloud%20Infra-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud" />
+</p>
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories below.</i></p>
+## 🚀 Featured Project: DocuTrust
+
+A **self-correcting RAG platform** for document analysis: answers are checked against the source before they reach the user. High-level flow:
+
+```mermaid
+flowchart LR
+    A[📄 Document] --> B[Chunk & Embed]
+    B --> C[Semantic Retrieval]
+    C --> D[LLM Answer]
+    D --> E{Grounded in source?}
+    E -- Yes --> F[✅ Trusted Answer]
+    E -- No --> C
+```
+
+**Built with:** `Python` · `FastAPI` · `LangGraph` · `Semantic Search`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
+</p>
+
+---
+
+<p align="center"><i>💬 Thanks for stopping by — feel free to explore my repositories below, and let's build something together.</i></p>
+
+<!-- Animated river ending (needs assets/river.svg in your profile repo) -->
+<img src="./assets/river.svg" width="100%" height="140" alt="flowing river animation" />

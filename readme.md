@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=Teja%20Gowthu&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Backend%20%26%20RAG%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="./header.svg" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+AIML+Student+%40+Aditya+University;Building+Scalable+Backend+Systems;Exploring+RAG+%26+Semantic+Search;Open+to+Internships+%26+Collaborations" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+AIML+Student+%40+Aditya+University;Building+Scalable+Backend+Systems;Exploring+RAG+%26+Semantic+Search;Open+to+Internships+%26+Collaborations" alt="typing animation" />
 </p>
 
 <p align="center">
